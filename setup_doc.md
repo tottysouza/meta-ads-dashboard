@@ -99,7 +99,7 @@ Quando receber o alerta de expiração:
 
 ## 5. Criar dashboard para um cliente
 
-1. Abra `generator/index.html` no navegador
+1. Abra `https://dash.tsdg.com.br/generator.html` no navegador
 2. Preencha:
    - **Título**: nome do cliente
    - **Subtítulo**: descrição (ex: "Gestão Meta ADS")
